@@ -3,4 +3,5 @@ example for To do List
  
 github page: 
 
-https://paterneseka.github.io/To-Do-List/
+
+https://paterneseka.github.io/New-ToDo/
